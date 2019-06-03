@@ -1,0 +1,1 @@
+Esta es una prueba de un error al hacer merge desde otra rama con Master.
